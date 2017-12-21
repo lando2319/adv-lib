@@ -9,6 +9,7 @@ function advStuff() {
     console.log("really REALLY ADV2226");
     console.log("really REALLY ADV2226");
     console.log("really REALLY ADV2226");
+    console.log("New risky stuff");
 }
 
 module.exports.advStuff = advStuff;
