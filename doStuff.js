@@ -5,6 +5,10 @@ function advStuff() {
     console.log("really REALLY ADV2226");
     console.log("really REALLY ADV2226");
 
+    console.log("really REALLY ADV2226");
+    console.log("really REALLY ADV2226");
+    console.log("really REALLY ADV2226");
+    console.log("really REALLY ADV2226");
 }
 
 module.exports.advStuff = advStuff;
